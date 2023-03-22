@@ -33,7 +33,7 @@ patient experience
 
 <p align="center"> Hack Case presenter: Teresa Walser (Director, eCommerce incubation) </p>
 
-Testhdcldhvldshvl
+- Communication channel: Discord (DKSH_Teresa)
 
 ![image](https://user-images.githubusercontent.com/127837547/225645590-4efdc4a4-cbcd-4dc4-9581-e2940cf796c8.png)
 
